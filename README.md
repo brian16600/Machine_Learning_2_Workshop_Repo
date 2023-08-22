@@ -13,7 +13,7 @@ This workshop is broken down into 3 segments, with further detail below:
 Covered topics such as fundamentals of Machine Learning, what Natural Language Processing is, how data cleaning works and more. The purpose of this segment was a short theory segment to get participants interested but not bored, especially for those from non computing backgrounds.
 
 ### Aggregating Restaurant Reviews using NLP
-In this segment, we selected various restaurants in and around NUS that have their reviews available on Google Reviews. Then, we scraped the data from the reviews and provided it to the participants in a Excel file. THe idea was to have familiar restaurants for NUS students for them to test out the NLP on the restaurant's reviews. Through the Google Colab notebook, we guided participants through the following:
+In this segment, we selected various restaurants in and around NUS that have their reviews available on Google Reviews. Then, we scraped the data from the reviews and provided it to the participants in a Excel file. THe idea was to have familiar restaurants for NUS students for them to test out the NLP on the restaurant's reviews. Through the Jupyter notebook, we guided participants through the following:
 
 - Cleaning texts
 - Creating a "Bag of Words" by filtering out unnecessary/conjunction words (e.g. "is", "I", ...)
