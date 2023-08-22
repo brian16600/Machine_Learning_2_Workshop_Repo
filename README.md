@@ -24,6 +24,7 @@ The algorithm was a simple one, by detecting key words that could be attributed 
 
 ### Predicting whether social media/news outlet posts are about Covid-19
 In this following segment, we left it to the participants to get a more hands on experience with predicting whether social media/news outlet posts and articles are related to Covid-19. The idea was inspired by Instagram & Facebook's response to Covid-19, detecting whether posts were about the virus and labelling it with additional information. We wanted to get participants to replicate a simple model of it, with the sample code in the "NLP Contest" folder.
+
 ![image](https://github.com/brian16600/Machine_Learning_2_Workshop_Repo/assets/83962069/4a1e1f49-6368-4232-a149-7a345a24e6c8)
 
 We provided participants with a dataset consisting of various texts, some related to Covid-19 and some not, that we had scraped off the Internet and social media. The method to develop the model was the same as the previous section, and during our own testing we managed to get 70+% accuracy in predictions based on keywords.
